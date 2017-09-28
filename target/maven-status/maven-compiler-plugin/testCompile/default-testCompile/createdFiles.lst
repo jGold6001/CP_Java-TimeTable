@@ -1,0 +1,12 @@
+org\itstep\dao\TeacherDAOTest.class
+org\itstep\dao\StudentDAOTest.class
+org\itstep\controller\GroupControllerTest.class
+org\itstep\service\LessonServiceTest.class
+org\itstep\dao\GroupDAOTest.class
+org\itstep\service\TeacherServiceTest.class
+org\itstep\service\StudentServiceTest.class
+org\itstep\controller\TeacherControllerTest.class
+org\itstep\controller\LessonControllerTest.class
+org\itstep\dao\LessonDAOTest.class
+org\itstep\controller\StudentControllerTest.class
+org\itstep\service\GroupServiceTest.class
